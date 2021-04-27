@@ -1,7 +1,7 @@
 import TaskController from '../engine/taskController';
 import app from '../app';
 
-jest.mock('../engine/TaskController');
+jest.mock('../engine/taskController');
 
 beforeEach(() => {
   TaskController.mockClear();
