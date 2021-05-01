@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/flj0sfoqhkvydmei?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-top-task)
+[![Build status](https://ci.appveyor.com/api/projects/status/flj0sfoqhkvydmei?svg=true)](https://ci.appveyor.com/project/valentin-panov/ahj-top-task)
 
-WEB Version https://vapanov.github.io/ahj-top_task/
+WEB Version https://valentin-panov.github.io/ahj-top_task/
 
 ---
 
